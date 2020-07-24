@@ -5,7 +5,7 @@
 
 ### Abstract
 
-This paper serves as an introductory analysis of the trip dynamics in Oslo bicycle-sharing system (BSS), Oslo Bysykkel, using PCA and K-means the weekday trip data of 2019, as well as some demographic information of the city. The results show that Oslo BSS is heavily influenced by a work/school commuter pattern.
+This paper serves as an introductory analysis of the trip dynamics in Oslo bicycle-sharing system (BSS), Oslo Bysykkel, using PCA and K-means clustering the weekday trip data of 2019, as well as some demographic information of the city. The results show that Oslo BSS is heavily influenced by a work/school commuter pattern.
 
 ### Results
 
