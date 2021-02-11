@@ -1,7 +1,7 @@
 # Daily trip distribution analysis of Oslo bicycle-sharing system using PCA and K-means clustering
 
-##### UC Berkeley, Fall 2019
 ##### Final project, CYPLAN-257
+##### UC Berkeley, Fall 2019
 
 ### Abstract
 
